@@ -1,4 +1,4 @@
-## OPNsense SCP-Backup
+# OPNsense SCP-Backup
 
 Action and script to backup config.xml over scp with a cron job in GUI.
 
